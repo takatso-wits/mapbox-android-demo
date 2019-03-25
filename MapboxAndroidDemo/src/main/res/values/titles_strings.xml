@@ -110,6 +110,7 @@
     <string name="activity_lab_magic_window_title">Magic Window</string>
     <string name="activity_lab_fog_background_title">Background fog</string>
     <string name="activity_lab_animated_interpolator_icon_drop_title">Animated icon movement</string>
+    <string name="activity_lab_dotted_and_solid_line_icon_title">Dotted and solid line</string>
     <string name="activity_china_simple_china_mapview_title">China map view</string>
 
 </resources>

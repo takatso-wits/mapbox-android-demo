@@ -760,6 +760,14 @@
                 android:value="com.mapbox.mapboxandroiddemo.MainActivity" />
         </activity>
         <activity
+            android:name=".examples.labs.DottedAndSolidLineIconActivity"
+            android:label="@string/activity_lab_dotted_and_solid_line_icon_title"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mapbox.mapboxandroiddemo.MainActivity" />
+        </activity>
+        <activity
             android:name=".examples.SimpleChinaMapViewActivity"
             android:label="@string/activity_china_simple_china_mapview_title"
             android:screenOrientation="portrait">
